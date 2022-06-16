@@ -1,0 +1,32 @@
+[
+  {
+    "cod_sectie": 1,
+    "denumire": "ORL",
+    "numar_locuri":10,
+  },
+  {
+    "cod_sectie": 2,
+    "denumire": "Cardio",
+    "numar_locuri":20,
+  },
+  {
+    "cod_sectie": 3,
+    "denumire": "sectie3",
+    "numar_locuri":9,
+  },
+  {
+    "cod_sectie": 4,
+    "denumire": "sectie4",
+    "numar_locuri":30,
+  },
+  {
+    "cod_sectie": 5,
+    "denumire": "sectie 5",
+    "numar_locuri":20,
+  },
+  {
+    "cod_sectie": 6,
+    "denumire": "sectie 6",
+    "numar_locuri":20,
+  }
+]

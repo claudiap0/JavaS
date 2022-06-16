@@ -1,0 +1,8 @@
+cod_secție_1,nume secție_1,numar_pacienti_1
+
+1,ORL,3
+2,Cardio,2
+3,sectie3,3
+4,sectie4,1
+5,sectie 5,2
+6,sectie 6,0
